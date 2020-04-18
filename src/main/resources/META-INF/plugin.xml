@@ -1,0 +1,8 @@
+<idea-plugin>
+    <name>HarmonyDemo</name>
+    <vendor>org.jetbrains</vendor>
+    <depends>org.intellij.scala</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <localInspection displayName="NoNullsInspection" groupName="Harmony" implementationClass="NoNullsInspection"/>
+    </extensions>
+</idea-plugin>

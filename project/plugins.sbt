@@ -1,0 +1,1 @@
+addSbtPlugin("org.jetbrains" % "sbt-idea-plugin" % "3.7.0+1-1f0903a8+20200418-1500")
