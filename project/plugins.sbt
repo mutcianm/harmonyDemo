@@ -1,1 +1,1 @@
-addSbtPlugin("org.jetbrains" % "sbt-idea-plugin" % "3.7.4")
+addSbtPlugin("org.jetbrains" % "sbt-idea-plugin" % "3.7.5")
